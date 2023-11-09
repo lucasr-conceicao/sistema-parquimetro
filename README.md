@@ -1,5 +1,5 @@
 ## Resumo do projeto
-- O Parking-meter-service é um serviço back-end para gerenciamento de estacionamentos. Disponibilizamos endpoints para que seja possível realizar o cadastro de Condutores, cadastro de veículos, estacionar veículos e realizar pagamentos.
+- O sistema-parquimetro é um serviço back-end para gerenciamento de estacionamentos. Disponibilizamos endpoints para que seja possível realizar o cadastro de Condutores, cadastro de veículos, estacionar veículos e realizar pagamentos.
 
 ## 🛠️ Exemplo Json/Rotas de cada API
 
